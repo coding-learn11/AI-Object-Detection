@@ -1,0 +1,58 @@
+body {
+    background-size: cover;
+}
+
+#title {
+    width: 100%;
+    margin: 0;
+    background-color: #518287;
+    padding: 10px;
+    color: white;
+}
+
+#note {
+    width: 100%;
+    background-color: #518287;
+    padding-bottom: 8px;
+    color: white;
+}
+
+#inputLabel {
+    color: white;
+}
+
+#start {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: #a5eccf;
+    color: black;
+}
+
+#status {
+    background-color: aquamarine;
+    width: fit-content;
+    padding: 7px;
+    display: inline-block;
+    border-radius: 10px;
+    margin-right: 10px;
+    color: black;
+}
+
+#detection {
+    background-color: aquamarine;
+    width: fit-content;
+    padding: 7px;
+    display: inline-block;
+    border-radius: 10px;
+    color: black;
+}
+
+canvas {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
